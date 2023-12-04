@@ -34,7 +34,7 @@ I am a passionate individual with a flair for coding and expertise in database m
 
 ## Connect with Me
 
-- **LinkedIn:** [Leoben Taningco](https://www.linkedin.com/login)
+- **LinkedIn:** [Leoben Taningco](https://ph.linkedin.com/in/leoben-t-taningco-875819255)
 - **Email:** leotaningco@gmail.com
 
 Feel free to reach out if you have any questions, collaboration opportunities, or just want to chat about tech and coding! 😊
