@@ -7,8 +7,8 @@ I am a passionate individual with a flair for coding and expertise in database m
 ## Education
 
 - **BS Computer Science**
-    New Era University
-    2022-Present
+   - New Era University
+   - 2022-Present
 
 ## Certifications
 
