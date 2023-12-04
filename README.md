@@ -2,11 +2,11 @@
 
 ## About Me
 
-I am a passionate individual with a flair for coding and expertise in database management. I love tackling complex problems and crafting elegant solutions. My journey in the tech world began with the BS Information Technology program, and I've been on a continuous learning path ever since.
+I am a passionate individual with a flair for coding and expertise in database management. I love tackling complex problems and crafting elegant solutions. My journey in the tech world began with the BS Computer Science program, and I've been on a continuous learning path ever since.
 
 ## Education
 
-- **BS Information Technology**
+- **BS Computer Science**
   New Era University
   2022-Present
 
