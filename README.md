@@ -1,5 +1,18 @@
 # Hello, I'm Leoben T. Taningco! 👋
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=leobenTaningco&show_icons=true&theme=tokyonight"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=leobenTaningco&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+</picture>
+
+
 ## About Me
 
 I am a passionate individual with a flair for coding and expertise in database management. I love tackling complex problems and crafting elegant solutions. My journey in the tech world began with the BS Computer Science program, and I've been on a continuous learning path ever since.
