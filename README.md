@@ -29,6 +29,21 @@
       </picture>
     </td>
   </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <picture>
+        <source
+          srcset="https://streak-stats.demolab.com?user=leobenTaningco&theme=tokyonight"
+          media="(prefers-color-scheme: dark)"
+        />
+        <source
+          srcset="https://streak-stats.demolab.com?user=leobenTaningco"
+          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+        />
+        <img src="https://streak-stats.demolab.com?user=leobenTaningco" />
+      </picture>
+    </td>
+  </tr>
 </table>
 
 ## About Me
