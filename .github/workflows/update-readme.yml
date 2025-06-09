@@ -13,23 +13,24 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout repo
-      uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
-    - name: Update README cache buster and timestamp
-      run: |
-        TIMESTAMP=$(date +%s)
-        UTC_TIME=$(date -u +"%Y-%m-%d %H:%M UTC")
-        sed -i -E "s/(\?v=)[0-9]+/\?v=$TIMESTAMP/g" README.md
-        sed -i -E "s|Last updated: .*|Last updated: $UTC_TIME|" README.md
+      - name: Update README cache buster and timestamp
+        run: |
+          TIMESTAMP=$(date +%s)
+          UTC_TIME=$(date -u +"%Y-%m-%d %H:%M UTC")
+          sed -i -E "s/(\?v=)[0-9]+/\?v=$TIMESTAMP/g" README.md
+          sed -i -E "s|Last updated: .*|Last updated: $UTC_TIME|" README.md
 
-    - name: Commit and push if changes
-      run: |
-        git config user.name "github-actions[bot]"
-        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-        if [[ $(git status --porcelain) ]]; then
-          git add README.md
-          git commit -m "Update README cache buster and timestamp"
-          git push
-        else
-          echo "No changes to commit"
+      - name: Commit and push if changes
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          if [[ $(git status --porcelain) ]]; then
+            git add README.md
+            git commit -m "Update README cache buster and timestamp"
+            git pull --rebase origin main
+            git push https://github-actions:${{ secrets.DOGPAT }}@github.com/leobenTaningco/leobenTaningco.git
+          else
+            echo "No changes to commit"
