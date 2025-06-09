@@ -4,6 +4,6 @@ and i like dogs especially these guys, have some photos that change every 5 minu
 
 |  |  |
 |--------|----------|
-| ![Borzoi](https://random-dog-vercel.vercel.app/api/random-borzoi?v=1749491739) | ![Labrador](https://random-dog-vercel.vercel.app/api/random-labrador?v=1749491739) |
+| ![Borzoi](https://random-dog-vercel.vercel.app/api/random-borzoi?v=1749494130) | ![Labrador](https://random-dog-vercel.vercel.app/api/random-labrador?v=1749494130) |
 
-Last updated: 2025-06-09 17:55 UTC
+Last updated: 2025-06-09 18:35 UTC
