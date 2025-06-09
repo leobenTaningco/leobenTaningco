@@ -3,6 +3,7 @@ name: Update README with new dog image
 on:
   schedule:
     - cron: '*/3 * * * *'
+  workflow_dispatch:
 
 jobs:
   update-readme:
@@ -12,11 +13,12 @@ jobs:
     - name: Checkout repo
       uses: actions/checkout@v3
 
-    - name: Update README cache buster
+    - name: Update README cache buster and timestamp
       run: |
-        TIMESTAMP=$(date +%s)
-        sed -i -E 's|(https://random-dog-vercel.vercel.app/api/random-borzoi)\?[0-9]+|\1?'$TIMESTAMP'|g' README.md
-        sed -i -E 's|(https://random-dog-vercel.vercel.app/api/random-labrador)\?[0-9]+|\1?'$TIMESTAMP'|g' README.md
+        TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+        EPOCH=$(date +%s)
+        sed -i -E "s/(\?v=)[0-9]+/\?v=$EPOCH/g" README.md
+        sed -i -E "s|Last updated: .*|Last updated: $TIMESTAMP|" README.md
 
     - name: Commit and push if changes
       run: |
@@ -24,8 +26,7 @@ jobs:
         git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
         if [[ `git status --porcelain` ]]; then
           git add README.md
-          git commit -m "Update README cache buster with timestamp $TIMESTAMP"
+          git commit -m "Update README cache buster and timestamp"
           git push
         else
           echo "No changes to commit"
-        fi

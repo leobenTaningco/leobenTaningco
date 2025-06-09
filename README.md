@@ -1,6 +1,6 @@
 # hi i'm Leoben
 
-and i like dogs especially these guys, have some photos that change every time you reload 
+and i like dogs especially these guys, have some photos that change every 3 minutes 
 
 |  |  |
 |--------|----------|
