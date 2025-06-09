@@ -34,3 +34,4 @@ jobs:
             git push https://github-actions:${{ secrets.DOGPAT }}@github.com/leobenTaningco/leobenTaningco.git
           else
             echo "No changes to commit"
+          fi
