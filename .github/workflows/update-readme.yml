@@ -2,7 +2,7 @@ name: Update README with new dog image
 
 on:
   schedule:
-    - cron: '*/3 * * * *'
+    - cron: '*/1 * * * *'
   workflow_dispatch:
 
 permissions:
