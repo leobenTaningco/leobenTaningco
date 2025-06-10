@@ -1,6 +1,6 @@
 # hi i'm Leoben
 
-and i like dogs especially these guys, have some photos that change every 5 minutes 
+and i like dogs—so have some random dog pics that change whenever my CRON feels like it
 
 |  |  |
 |--------|----------|
