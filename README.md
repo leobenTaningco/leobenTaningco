@@ -1,9 +1,9 @@
 # hi i'm Leoben
 
-and i like dogs especially these guys, have some photos that change every 5 minutes 
+and i like dogs—so have some random dog pics that change whenever my CRON feels like it
 
 |  |  |
 |--------|----------|
-| ![Borzoi](https://random-dog-vercel.vercel.app/api/random-borzoi?v=1749486673) | ![Labrador](https://random-dog-vercel.vercel.app/api/random-labrador?v=1749486673) |
+| ![Borzoi](https://random-dog-vercel.vercel.app/api/random-borzoi?v=1749904693) | ![Labrador](https://random-dog-vercel.vercel.app/api/random-labrador?v=1749904693) |
 
 Last updated: 2025-06-09 16:31 PHT
