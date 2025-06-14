@@ -19,9 +19,9 @@ jobs:
       - name: Update README cache buster and timestamp
         run: |
           TIMESTAMP=$(date +%s)
-          UTC_TIME=$(date -u +"%Y-%m-%d %H:%M UTC")
+          PHT_TIME=$(TZ='Asia/Manila' date +"%Y-%m-%d %H:%M PHT")
           sed -i -E "s/(\?v=)[0-9]+/\?v=$TIMESTAMP/g" README.md
-          sed -i -E "s|Last updated: .*|Last updated: $UTC_TIME|" README.md
+          sed -i -E "s|Last updated: .*|Last updated: $PHT_TIME|" README.md
 
       - name: Commit and push if changes
         run: |
