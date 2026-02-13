@@ -4,6 +4,6 @@ and i like dogs—so have some random dog pics that change whenever my CRON feel
 
 |  |  |
 |--------|----------|
-| ![Borzoi](https://random-dog-vercel.vercel.app/api/random-borzoi?v=1771016020) | ![Labrador](https://random-dog-vercel.vercel.app/api/random-labrador?v=1771016020) |
+| ![Borzoi](https://random-dog-vercel.vercel.app/api/random-borzoi?v=1771018713) | ![Labrador](https://random-dog-vercel.vercel.app/api/random-labrador?v=1771018713) |
 
-Last updated: 2026-02-14 04:53 PHT
+Last updated: 2026-02-14 05:38 PHT
