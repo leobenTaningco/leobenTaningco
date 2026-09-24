@@ -6,12 +6,14 @@
 
 ## SKILLS
 
-**Languages:** Java, JavaScript, TypeScript, PHP, Python, HTML, CSS  
-**Frameworks:** ExpressJS, NextJS, React, Laravel, Laravel Blade, Jest  
-**Libraries:** FakerJS, Cheerio, Puppeteer, Prisma  
-**Databases:** MariaDB, MySQL, PostgreSQL, Supabase  
-**Tools/Platforms:** Git/GitHub, Linux, NodeJS, Vercel, Figma  
-**Others:** Unit Testing, Web Scraping, CLI
+| Category | Technologies |
+|---|---|
+| **Languages** | Java · JavaScript · TypeScript · PHP · Python · HTML · CSS |
+| **Frameworks** | ExpressJS · NextJS · React · Laravel · Laravel Blade · Jest |
+| **Libraries** | FakerJS · Cheerio · Puppeteer · Prisma |
+| **Databases** | MariaDB · MySQL · PostgreSQL · Supabase |
+| **Tools** | Git · GitHub · Linux · NodeJS · Vercel · Figma |
+| **Other** | Unit Testing · Web Scraping · CLI |
 
 ## 🐶 Random Dogs
 
