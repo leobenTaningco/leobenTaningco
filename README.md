@@ -5,15 +5,16 @@
 🌐 **Portfolio:** https://leoben-taningco-portfolio.vercel.app/
 
 ## SKILLS
-
 | Category | Technologies |
 |---|---|
 | **Languages** | Java · JavaScript · TypeScript · PHP · Python · HTML · CSS |
-| **Frameworks** | ExpressJS · NextJS · React · Laravel · Laravel Blade · Jest |
-| **Libraries** | FakerJS · Cheerio · Puppeteer · Prisma |
+| **Frameworks** | ExpressJS · NextJS · Laravel · Laravel Blade |
+| **Libraries** | React · FakerJS · Cheerio · Puppeteer · Prisma |
 | **Databases** | MariaDB · MySQL · PostgreSQL · Supabase |
-| **Tools** | Git · GitHub · Linux · NodeJS · Vercel · Figma |
-| **Other** | Unit Testing · Web Scraping · CLI |
+| **Testing** | Jest · Unit Testing |
+| **Security** | Metasploit · Burp Suite · John the Ripper · Nmap · Wireshark |
+| **Tools & Platforms** | Git · GitHub · Linux · NodeJS · Vercel · Figma |
+| **Other** | Web Scraping · CLI |
 
 ## 🐶 Random Dogs
 
