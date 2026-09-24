@@ -1,6 +1,19 @@
-# hi i'm Leoben
-Here's my portfolio link: https://leoben-taningco-portfolio.vercel.app/
-and i like dogs—so have some random dog pics that change whenever my CRON feels like it
+# Hi, I'm Leoben Taningco
+
+**BS Computer Science Graduate**
+
+🌐 **Portfolio:** https://leoben-taningco-portfolio.vercel.app/
+
+## SKILLS
+
+**Languages:** Java, JavaScript, TypeScript, PHP, Python, HTML, CSS  
+**Frameworks:** ExpressJS, NextJS, React, Laravel, Laravel Blade, Jest  
+**Libraries:** FakerJS, Cheerio, Puppeteer, Prisma  
+**Databases:** MariaDB, MySQL, PostgreSQL, Supabase  
+**Tools/Platforms:** Git/GitHub, Linux, NodeJS, Vercel, Figma  
+**Others:** Unit Testing, Web Scraping, CLI
+
+## 🐶 Random Dogs
 
 |  |  |
 |--------|----------|
