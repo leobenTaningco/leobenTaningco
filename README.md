@@ -20,6 +20,6 @@
 
 |  |  |
 |--------|----------|
-| ![Borzoi](https://random-dog-vercel.vercel.app/api/random-borzoi?v=1792596806) | ![Labrador](https://random-dog-vercel.vercel.app/api/random-labrador?v=1792596806) |
+| ![Borzoi](https://random-dog-vercel.vercel.app/api/random-borzoi?v=1792611284) | ![Labrador](https://random-dog-vercel.vercel.app/api/random-labrador?v=1792611284) |
 
-Last updated: 2026-10-21 23:33 PHT
+Last updated: 2026-10-22 03:34 PHT
